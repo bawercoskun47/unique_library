@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unique Library</title>
+    <meta
+      name="description"
+      content="Kapak önizlemeleriyle Netflix tarzı kitap arşivi"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand">
+        <div class="brand-mark">UL</div>
+        <div class="brand-text">
+          <h1>Unique Library</h1>
+          <p>Arşivindeki PDF kitaplar, Netflix benzeri görünümle</p>
+        </div>
+      </div>
+      <div class="search-area">
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Kitap veya kategori ara..."
+          autocomplete="off"
+        />
+      </div>
+    </header>
+
+    <main id="app" class="app-root">
+      <div class="loading">Yükleniyor...</div>
+    </main>
+
+    <footer class="site-footer">
+      <span>unique_library · PDF arşivin için minimal arayüz</span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
