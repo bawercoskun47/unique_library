@@ -2,11 +2,18 @@
   {
     "title": "1 Mayıs Düşüncesi İlerliyor",
     "category": "Anarşizm",
-    "file": "pdfs/01_anarsizm/1 Mayıs Düşüncesi İlerliyor.pdf"
+    "file": "pdfs/01_anarsizm/1 Mayıs Düşüncesi İlerliyor.pdf",
+    "cover": "covers/1-mayis-dusuncesi.png",
+    "year": "",
+    "tags": ["İşçi", "1 Mayıs", "Mücadele"]
   },
   {
     "title": "1 Mayıs İşçilerin Hayatları ve Mücadelelerinde Yeni Bir Çağın Sembolü",
     "category": "Anarşizm",
-    "file": "pdfs/01_anarsizm/1 Mayıs İşçilerin Hayatları ve Mücadelelerinde Yeni Bir Çağın Sembolü.pdf"
+    "file": "pdfs/01_anarsizm/1 Mayıs İşçilerin Hayatları ve Mücadelelerinde Yeni Bir Çağın Sembolü.pdf",
+    "cover": "covers/1-mayis-sembol.png",
+    "year": "",
+    "tags": ["1 Mayıs", "Sembol", "Tarih"]
   }
 ]
+
